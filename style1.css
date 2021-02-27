@@ -5,7 +5,7 @@ h1 {
 }
 
 h2 {
-  color: rgb(94, 255, 20);
+  color: rgb(228, 20, 255);
 }
 
 h3 {
@@ -16,17 +16,13 @@ img {
   box-shadow: 30px 15px 10px rgb(11, 221, 236);
 }
 
-section {
-  background-color: #000;
-}
-
 p {
   font-size: 18px;
   color: rgb(255, 47, 47);
 }
 
 ul {
-  border-style: dashed;
+  border-style: dashed rgb(219,24,210);
   color: mediumspringgreen;
   width: 15%;
 }
@@ -55,5 +51,5 @@ th {
   width: 150px;
   height: 150px;
   background: #2bd4eb;
-  border: 2px solid black;
+  border: 5px solid rgb(219, 24, 210);
 }
