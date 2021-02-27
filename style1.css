@@ -47,6 +47,11 @@ th {
   font-size: 25px;
 }
 
-.box-1 {
-  left: 50%;
+.box {
+  /* relative positioning */
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
 }
