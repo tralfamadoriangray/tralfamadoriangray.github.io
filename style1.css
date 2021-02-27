@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   background-color: cyan;
-  color: orangered;
+  color: black;
 }
 
 h2 {
@@ -28,7 +28,7 @@ p {
 ul {
   border-style: dashed;
   color: mediumspringgreen;
-  width: 35%;
+  width: 20%;
 }
 
 body {
@@ -39,5 +39,10 @@ body {
   background-position: center center;
 }
 td {
-  color: white
+  color: white;
+  font-size: 20px;
+}
+th {
+  color:cornflowerblue;
+  font-size: 22px;
 }
