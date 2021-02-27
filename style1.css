@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   background-color: cyan;
-  color: skyblue;
+  color: whitesmoke;
 }
 
 h2 {
@@ -21,11 +21,16 @@ section {
 }
 
 p {
-  font-size: 45px;
-  color: greenyellow;
+  font-size: 25px;
+  color: rgb(255, 47, 203);
 }
 
 ul {
   border-style: dashed;
-  color: gray;
+  color: mediumspringgreen;
 }
+
+body {
+  background-image: url("2832556b0ad81a0f0_w.jpg");
+  background-color: #cccccc;
+ }
