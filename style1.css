@@ -13,7 +13,7 @@ h3 {
 }
 
 img {
-  box-shadow: 10px 10px 5px black;
+  box-shadow: 10px 10px 5px rgb(11, 221, 236);
 }
 
 section {
@@ -21,8 +21,8 @@ section {
 }
 
 p {
-  font-size: 20px;
-  color: rgb(234, 255, 47);
+  font-size: 18px;
+  color: rgb(255, 47, 47);
 }
 
 ul {
@@ -38,9 +38,9 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
-td {
+tr {
   color: rgb(241, 100, 230);
-  font-size: 20px;
+  font-size: 15px;
 }
 th {
   color:rgb(2, 12, 29);
