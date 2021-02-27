@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   background-color: cyan;
   color: black;
+  background-size: 50%;
 }
 
 h2 {
@@ -17,8 +18,8 @@ img {
 }
 
 p {
-  font-size: 18px;
-  color: rgb(255, 47, 47);
+  font-size: 24px;
+  color: rgb(26, 238, 227);
 }
 
 ul {
