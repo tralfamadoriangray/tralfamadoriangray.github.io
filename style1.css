@@ -26,6 +26,7 @@ ul {
   border-style: dashed rgb(219,24,210);
   color: mediumspringgreen;
   width: 15%;
+  font-size: 20px;
 }
 
 body {
@@ -52,5 +53,5 @@ th {
   width: 150px;
   height: 150px;
   background: #2bd4eb;
-  border: 5px solid rgb(219, 24, 210);
+  border: 5px solid rgb(2, 2, 2);
 }
