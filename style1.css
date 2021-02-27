@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   background-color: cyan;
-  color: whitesmoke;
+  color: black;
 }
 
 h2 {
@@ -28,6 +28,7 @@ p {
 ul {
   border-style: dashed;
   color: mediumspringgreen;
+  width: 35%;
 }
 
 body {
@@ -36,4 +37,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+}
+td {
+  color: white
 }
