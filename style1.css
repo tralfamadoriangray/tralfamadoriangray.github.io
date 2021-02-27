@@ -39,12 +39,14 @@ body {
   background-position: center center;
 }
 tr {
+  text-align: center;
   color: rgb(241, 100, 230);
   font-size: 15px;
 }
 th {
   color:rgb(2, 12, 29);
   font-size: 25px;
+  text-shadow: 5px;
 }
 
 .box {
