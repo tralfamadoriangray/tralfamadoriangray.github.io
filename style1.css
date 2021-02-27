@@ -30,8 +30,10 @@ ul {
   color: mediumspringgreen;
 }
 
-body {
-  background-image: url("2832556b0ad81a0f0_w.jpg");
-  background-color: #cccccc;
+html {
+  min-height: 100%;
+  background-image: url(2832556b0ad81a0f0_w.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
- }
+  background-position: center center;
+}
